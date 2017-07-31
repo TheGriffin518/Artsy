@@ -1,3 +1,8 @@
+# Project Submission
+
+Author: James Griffin (037)
+Author: Jacob Hildanmolar (913)
+
 # CSCI 1302 - Artsy Project (cs1302-artsy)
 
 This repository contains the skeleton code for the Art project assigned

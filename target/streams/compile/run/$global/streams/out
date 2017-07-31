@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0mRunning cs1302.p2.Driver [0m
+[0m[[31merror[0m] [0mlibGL error: No matching fbConfigs or visuals found[0m
+[0m[[31merror[0m] [0mlibGL error: failed to load driver: swrast[0m
+[0m[[31merror[0m] [0mPrism-ES2 Error : GL_VERSION (major.minor) = 1.4[0m
