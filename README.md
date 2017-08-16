@@ -1,7 +1,6 @@
 # Project Submission
 
-Author: James Griffin (037)
-Author: Jacob Hildanmolar (913)
+Author: James Griffin (
 
 # CSCI 1302 - Artsy Project (cs1302-artsy)
 
